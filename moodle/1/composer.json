@@ -6,6 +6,6 @@
         }
     ],
     "require": {
-        "moodle/moodle": "v3.1.0"
+        "moodle/moodle": "v3.5.1"
     }
 }
